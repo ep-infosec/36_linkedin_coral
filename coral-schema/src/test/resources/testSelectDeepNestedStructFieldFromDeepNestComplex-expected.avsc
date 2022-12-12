@@ -1,0 +1,21 @@
+{
+  "type" : "record",
+  "name" : "v",
+  "namespace" : "default.v",
+  "fields" : [ {
+    "name" : "Int_Field_1",
+    "type" : [ "null", "int" ]
+  }, {
+    "name" : "Int_Field_2",
+    "type" : [ "null", "int" ]
+  }, {
+    "name" : "Int_Field_3",
+    "type" : [ "null", "int" ]
+  }, {
+    "name" : "Int_Field_4",
+    "type" : [ "null", "int" ]
+  }, {
+    "name" : "Int_Field_5",
+    "type" : [ "null", "int" ]
+  } ]
+}
